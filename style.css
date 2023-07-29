@@ -1,0 +1,38 @@
+#form{
+    background-color: rgb(255, 255, 255, 0.5);
+    width:25%;
+    border-radius: 10px;
+    margin:120px auto;
+    padding:50px;
+    
+   
+}
+
+#btn{
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding:10px;
+    font-size: large;
+    border-color: aliceblue;
+    border-radius: 10px;
+}
+#btn2{
+  color:rgb(0, 0, 0);
+ 
+  background-color: rgb(5, 12, 20);
+  padding:10px;
+  font-size: large;
+  border-radius: 10px;
+  border-color: aliceblue;
+  margin-left: 10px;
+}
+
+
+.button_container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}

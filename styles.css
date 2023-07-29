@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.tamagotchi-container {
+    margin-top: 50px;
+}
+
+#pet-image {
+    width: 200px;
+}
+
+.status-container {
+    margin-top: 20px;
+}
+
+.buttons-container {
+    margin-top: 20px;
+}
+
+button {
+    margin: 5px;
+}
+#btn{
+    color:rgb(255, 255, 255);
+    background-color: rgb(108, 22, 189);
+    padding:10px;
+    font-size: large;
+    border-radius: 10px;
+    
+}
+#btn2{
+    color:rgb(49, 11, 57);
+    background-color:transparent;
+    border-color: rgb(148, 142, 224);
+   
+    font-size: large;
+    
+   
+  }
+  
+button {
+    
+    color:rgb(0, 0, 0);
+    background-color: transparent;
+    padding:10px;
+    font-size: large;
+    border-radius: 10px;
+    border-color:rgb(148, 142, 224);
+    margin-left: 10px;
+    
+}
+
+.button_container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
